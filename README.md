@@ -11,3 +11,7 @@ I am proud to be the son of **Manzoor Ahmad**. My family has always been a stron
 ## 3. Academic Journey
 
 My academic journey is a blend of curiosity, hard work, and a quest for knowledge. Currently, I am in my **Fifth semester** at the **University of Agriculture Faisalabad**, specializing in Software Engineering. This program has equipped me with a strong foundation in both theoretical concepts and practical applications.
+
+## 4. Passion for Learning
+
+I am a passionate learner, always eager to explore new ideas and technologies. My enthusiasm for learning is not confined to the classroom; I continually seek opportunities to expand my knowledge through online courses, workshops, and hands-on projects.
