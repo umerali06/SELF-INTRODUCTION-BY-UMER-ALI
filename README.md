@@ -27,3 +27,7 @@ Currently, I am delving into the world of **Cloud Generative AI** at the **Presi
 ## 7. Projects and Experience
 
 Throughout my academic career, I have undertaken several projects that have honed my **development skills**. These projects range from creating **responsive web applications** to developing complex algorithms. Each project has been a learning experience, contributing to my growth as a developer..
+
+## 8. Personal Interests
+
+Beyond academics, I have a keen interest in **Artificial Intelligence and Machine Learning**. I believe these technologies are the future, and I am committed to building a career in these domains. Additionally, I enjoy playing **cricket**, which helps me maintain a healthy balance between work and leisure.
