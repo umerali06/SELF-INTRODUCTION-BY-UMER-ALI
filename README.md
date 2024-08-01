@@ -15,3 +15,7 @@ My academic journey is a blend of curiosity, hard work, and a quest for knowledg
 ## 4. Passion for Learning
 
 I am a passionate learner, always eager to explore new ideas and technologies. My enthusiasm for learning is not confined to the classroom; I continually seek opportunities to expand my knowledge through online courses, workshops, and hands-on projects.
+
+## 5. Technical Skills
+
+In terms of skills, I am proficient in both **Full Stack** and **MERN Stack development**. My expertise includes working with **MongoDB, Express.js, React.js, and Node.js**, enabling me to build dynamic and scalable web applications. I also have a solid understanding of **front-end and back-end development**, ensuring seamless integration across the stack.
