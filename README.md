@@ -19,3 +19,7 @@ I am a passionate learner, always eager to explore new ideas and technologies. M
 ## 5. Technical Skills
 
 In terms of skills, I am proficient in both **Full Stack** and **MERN Stack development**. My expertise includes working with **MongoDB, Express.js, React.js, and Node.js**, enabling me to build dynamic and scalable web applications. I also have a solid understanding of **front-end and back-end development**, ensuring seamless integration across the stack.
+
+## 6. Current Learning Focus
+
+Currently, I am delving into the world of **Cloud Generative AI** at the **Presidential Initiative for Artificial Intelligence and Computing (PIAIC)** in Faisalabad. This cutting-edge field fascinates me, and I am excited about the potential it holds for revolutionizing the tech industry.
