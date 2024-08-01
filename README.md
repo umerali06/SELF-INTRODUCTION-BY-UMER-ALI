@@ -23,3 +23,7 @@ In terms of skills, I am proficient in both **Full Stack** and **MERN Stack deve
 ## 6. Current Learning Focus
 
 Currently, I am delving into the world of **Cloud Generative AI** at the **Presidential Initiative for Artificial Intelligence and Computing (PIAIC)** in Faisalabad. This cutting-edge field fascinates me, and I am excited about the potential it holds for revolutionizing the tech industry.
+
+## 7. Projects and Experience
+
+Throughout my academic career, I have undertaken several projects that have honed my **development skills**. These projects range from creating **responsive web applications** to developing complex algorithms. Each project has been a learning experience, contributing to my growth as a developer..
