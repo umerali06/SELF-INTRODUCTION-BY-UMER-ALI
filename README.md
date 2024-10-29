@@ -34,7 +34,7 @@ Beyond academics, I have a keen interest in **Artificial Intelligence and Machin
 
 ## 9. Career Aspirations
 
-My career aspirations are to become a leading expert in **AI and Machine Learning**. I aim to leverage my skills and knowledge to contribute to innovative projects that can make a significant impact on society. My goal is to continuously evolve as a professional and stay at the forefront of technological advancements.
+My career aspirations are to become a leading expert in **AI and Machine Learning**. I aim to leverage my skills and knowledge to contribute to innovative projects that can make a significant impact on society. *My goal* is to continuously evolve as a professional and stay at the forefront of technological advancements.
 
 ## 10. Conclusion
 
